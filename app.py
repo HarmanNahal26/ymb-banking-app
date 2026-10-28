@@ -7,10 +7,10 @@ def home():
     return """
     <html>
     <head>
-        <title>YMB Banking App</title>
+        <title>YMB Banking App - Auto Deploy</title>
     </head>
     <body>
-        <h1>Yarrow-Mullein Bank</h1>
+        <h1>Yarrow-Mullein Bank - Auto Deploy</h1>
         <h2>Banking Application</h2>
         <p>Welcome to the YMB Banking App!</p>
         <p>Student: Harman Nahal</p>
